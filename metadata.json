@@ -1,0 +1,7 @@
+{
+  "name": "Audio Transcriber",
+  "description": "An application to transcribe spoken words into text in real-time using your microphone and the power of Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
